@@ -5,7 +5,7 @@ import { downloadPdf } from "./helper.js";
 
 const cvBtn = document.querySelector(".landing__overview--btn");
 const pdfUrl =
-  "https://drive.google.com/file/d/1NetRHvT5EIlnGLDaWCjJKh2WFWbQ_Ha6/view?usp=sharing";
+  "https://drive.google.com/file/d/1dADJuRZaSadttE5P0Q0BMDH5PIXV2kat/view?usp=sharing";
 
 const projectSectionContinBtns = document.querySelector(
   ".myProject__box--tabs"
