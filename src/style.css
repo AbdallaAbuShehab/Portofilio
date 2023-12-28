@@ -902,7 +902,7 @@ ul {
     0 0 40px var(--dark-purble-color), 0 0 50px var(--dark-purble-color),
     0 0 60px var(--dark-purble-color), 0 0 70px var(--dark-purble-color);
   cursor: pointer;
-  padding: 5px 0;
+  padding: 3px;
   transition: 0.3s;
 }
 
