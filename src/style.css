@@ -886,6 +886,7 @@ ul {
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto;
   grid-column-gap: 20px;
+  grid-row-gap: 20px;
 
   align-items: center;
   justify-items: center;
@@ -948,6 +949,9 @@ ul {
   height: 100%;
   object-fit: cover;
   margin-bottom: 10px;
+}
+.card--text .fa-react {
+  color: #149ECA;
 }
 
 .card--text .fa-js {
