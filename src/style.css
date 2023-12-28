@@ -912,7 +912,7 @@ ul {
 
 .active-btn {
   /* text-shadow: 0 0 0; */
-  border-radius: 10px;
+  border-radius: 1000px;
   background-color: var(--dark-purble-color);
 }
 
