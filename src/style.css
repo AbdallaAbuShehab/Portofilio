@@ -782,6 +782,8 @@ ul {
 .skillbox--ul-item i {
   margin-right: 10px;
   margin-left: 10px;
+  height: 21px;
+  width: 21px;
 }
 
 @keyframes header-skillText {
