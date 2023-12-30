@@ -776,7 +776,7 @@ ul {
 
   animation: skill-backMove 10s infinite;
   animation-delay: calc(0.4s * var(--i));
-  background-color: var(--dark-purble-color);
+/*   background-color: var(--dark-purble-color); */
 }
 
 .skillbox--ul-item i {
