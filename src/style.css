@@ -774,8 +774,8 @@ ul {
   /* backdrop-filter: var(--black-color) 10px; */
   transition: 0.3s;
 
-  /* animation: skill-backMove 10s infinite;
-  animation-delay: calc(0.4s * var(--i)); */
+  animation: skill-backMove 10s infinite;
+  animation-delay: calc(0.4s * var(--i));
   background-color: var(--dark-purble-color);
 }
 
