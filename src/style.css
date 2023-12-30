@@ -828,6 +828,10 @@ ul {
   .skillbox--ul-item {
     width: 100%;
   }
+
+  .skillbox--ul-item span {
+  font-size: 10px;
+}
 }
 
 /* //--- projects ---// */
