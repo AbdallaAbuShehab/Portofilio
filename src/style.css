@@ -784,6 +784,7 @@ ul {
   margin-left: 10px;
   height: 21px;
   width: 21px;
+  text-align: center;
 }
 
 @keyframes header-skillText {
